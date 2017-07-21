@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Java Debug",
+            "request": "launch",
+            "cwd": "${workspaceRoot}",
+            "stopOnEntry": true,
+            "startupClass": "xuan.test.App",
+            "classPath": [
+                "${workspaceRoot}"
+            ],
+            "sourcePath": [
+                "${workspaceRoot}/src/main/java"
+            ],
+            "options": []
+        }
+    ]
+}
