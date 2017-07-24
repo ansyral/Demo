@@ -8,9 +8,6 @@
             "cwd": "${workspaceRoot}",
             "stopOnEntry": true,
             "startupClass": "xuan.test.App",
-            "classPath": [
-                "${workspaceRoot}"
-            ],
             "sourcePath": [
                 "${workspaceRoot}/src/main/java"
             ],

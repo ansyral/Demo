@@ -8,9 +8,6 @@
             "cwd": "${workspaceRoot}",
             "stopOnEntry": true,
             "startupClass": "xuan.test.App",
-            "classPath": [
-                "${workspaceRoot}"
-            ],
             "projectName": "xuan.test.eclipse",
             "sourcePath": [
                 "${workspaceRoot}/src/"
